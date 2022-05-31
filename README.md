@@ -1,1 +1,1 @@
-# Pepper-Disease-Classification-using-CNN
+# Pepper Disease Classification using CNN
